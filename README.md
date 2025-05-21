@@ -94,5 +94,13 @@ The final SQL query is displayed in a syntax-highlighted block.
 ![Alt text](https://github.com/ratnesh134/Text-to-SQL-Generator/blob/master/images/Screenshot%20from%202025-05-20%2020-53-05.png)
 
 
+## 📌 Notes
+The current database used is testdb.sqlite, but you can swap in your own.
 
+Only SQL output is expected—no additional reasoning or commentary.
+
+The app supports only SQLite by default but can be extended to support other databases.
+
+## 🤝 Contributions
+Contributions and feedback are welcome! Feel free to open an issue or submit a pull request.
 

@@ -6,11 +6,17 @@ This Streamlit application allows users to write natural language queries that a
 
 ## 🚀 Features
 
-- ✅ Converts natural language questions into SQL queries
-- ✅ Uses dynamic schema extraction from any SQLite database
-- ✅ Powered by LangChain and Ollama LLM integration
-- ✅ Clean, SQL-only output (no explanations or extra text)
-- ✅ Simple web interface using Streamlit
+Generate SQL queries from natural language prompts
+
+View and explore database schema in the sidebar
+
+Execute and display query results instantly
+
+Error handling for invalid queries
+
+Powered by LangChain, Ollama, and Streamlit
+
+
 
 ---
 

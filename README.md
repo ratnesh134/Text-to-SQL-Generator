@@ -99,6 +99,9 @@ The final SQL query is displayed in a syntax-highlighted block.
 
 ![Alt text](https://github.com/ratnesh134/Text-to-SQL-Generator/blob/master/images/Screenshot%20from%202025-05-20%2020-53-05.png)
 
+![Alt text](https://github.com/ratnesh134/Text-to-SQL-Generator/blob/master/images/Screenshot%20from%202025-05-22%2014-05-26.png)
+
+
 
 ## 📌 Notes
 The current database used is testdb.sqlite, but you can swap in your own.
